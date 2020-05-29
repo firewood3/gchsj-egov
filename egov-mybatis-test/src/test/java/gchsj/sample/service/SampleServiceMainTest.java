@@ -21,6 +21,7 @@ public class SampleServiceMainTest {
 		}
 
 		int i = 0;
+		int i = 0;
 		
 		container.close();
 		
