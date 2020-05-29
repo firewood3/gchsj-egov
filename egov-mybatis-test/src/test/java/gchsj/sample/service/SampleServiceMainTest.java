@@ -19,6 +19,8 @@ public class SampleServiceMainTest {
 		for (Sample sample : sampleList) {
 			System.out.println("---> " + sample.toString());
 		}
+
+		int i = 0;
 		
 		container.close();
 		
