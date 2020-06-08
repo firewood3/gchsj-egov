@@ -3,7 +3,7 @@
 ## 프로젝트 목록
 1. egov-mybatis-test
    - 생성일: 2020-05-28
-   - 내용: mybatis 매퍼와 mysql 테이블 연결 및 테스트
+   - 내용: mybatis 매퍼와 mysql 테이블 연결 및 테스트 코드 작성
 
 2. spring4-web-socket
    - 생성일: 2020-06-08
