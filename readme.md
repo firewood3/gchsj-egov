@@ -6,5 +6,6 @@
    - 내용: mybatis 매퍼와 mysql 테이블 연결 및 테스트
 
 2. spring4-web-socket
+   - 생성일: 2020-06-08
    - 스프링4 기반의 websocket 예제
    - 참고: https://valar.tistory.com/17, https://micropilot.tistory.com/2764
